@@ -34,7 +34,7 @@ namespace IngameScript
         public const int BULLETPROOF_GLASS_QUOTA = 1000;
         public const int DISPLAY_QUOTA = 1000;
         public const int SOLAR_CELL_QUOTA = 1000;
-        public const int POWER_CELL_QOUTA = 1000;
+        public const int POWER_CELL_QUOTA = 1000;
 
         public const String TARGET_ASSEMBLER_NAME = "Auto-Assembler";
         public const String TARGET_OUTPUT_NAME = "Auto-Assembler-Container";
